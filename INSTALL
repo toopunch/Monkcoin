@@ -1,0 +1,9 @@
+Building Monkcoin
+
+See doc/readme-qt.rst for instructions on building Monkcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Monkcoin.
+
+See doc/build-*.txt for instructions on building monkcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Monkcoin.
